@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김규빈"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/뉴뉴.png"
   bio              : "우당탕탕 HAFS 생활을 즐기는 중 :3"
   location         : "대한민국, 안양"
   email            : "21-21002@hafs.hs.kr"
