@@ -22,5 +22,5 @@ toc_label: "천재땃쥐 영상즈"
 {% include video id="F5AJg8mkND4" provider="youtube" %}
 
 ### 04. 예능 땃쥐
-자본주의가  MBTI
+자본주의가 낳은 MBTI
 {% include video id="3XIEZAOlEuk" provider="youtube" %}
