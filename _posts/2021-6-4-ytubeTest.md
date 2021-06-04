@@ -5,6 +5,12 @@ toc: true
 toc_sticky: true
 toc_label: "천재땃쥐 영상즈"
 ---
+### 00. 직캠 모음.zip
+페이스캠
+{% include video id="7CuyQty83o8" provider="youtube" %}
+{% include video id="msHy9VxHCqk" provider="youtube" %}
+{% include video id="t0tZNDQMnzk" provider="youtube" %}
+
 ### 01. 형광마이크 모음.zip
 {% include video id="rAu7C3NB4zo" provider="youtube" %}
 
